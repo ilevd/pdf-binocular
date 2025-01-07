@@ -9,8 +9,6 @@ def generate_pdf(file_name, postfix="_binocular", crop_v=0, crop_h=0, gap=0):
         mbox = reader.pages[0].mediabox
         page_width, page_height = mbox.width, mbox.height
 
-        pages_num = 5
-
         def run():
             for ind in range(pages_num):
                 writer.add_blank_page(page_width * 2 - crop_h * 2 - gap * 2,
