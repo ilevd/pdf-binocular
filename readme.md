@@ -12,9 +12,14 @@ When reading a book for some time eyes can become tired.
 
 The one reason of that can be that eyes are looking inward, and the muscles are strained.
 
+
+![alt inward](imgs/img1.svg)
+
 This script duplicates content of every PDF page making the page wider, 
 so both eyes can look at theirs own content without muscles strain for looking inward -
 eyes are in position like when they are looking at something at the distance.
+
+![alt straight](imgs/img2.svg)
 
 Usually the distance between the pupils is around 6-7 centimeters.
 Thus make sure that the half width of generated PDF page has the same size on the screen.
