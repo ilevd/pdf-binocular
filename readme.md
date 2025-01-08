@@ -22,7 +22,8 @@ eyes are in position like when they are looking at something at the distance.
 ![alt straight](imgs/img2.svg)
 
 Usually the distance between the pupils is around 6-7 centimeters.
-Thus make sure that the half width of generated PDF page has the same size on the screen.
+Thus make sure that the distance between left and right contents of the generated pages
+has the same size on the gadget screen.
 Usually E-reader or smartphone in horizontal orientation can be adjusted to make this proportion.
 There are also some parameters in the script that can help.
 
